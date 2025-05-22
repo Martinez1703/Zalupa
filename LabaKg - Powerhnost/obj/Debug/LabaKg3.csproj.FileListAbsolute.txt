@@ -1,0 +1,70 @@
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3 — копия\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 — копия\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg3.2 origin — копия\obj\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\bin\Debug\LabaKg3.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\bin\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\bin\Debug\LabaKg3.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\LabaKg - Powerhnost\obj\Debug\LabaKg3.pdb
